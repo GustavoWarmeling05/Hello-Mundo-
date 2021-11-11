@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(134, 11, 11);
+}
+
+.ola{
+    position: absolute;
+    color: cornsilk;
+    text-align: center;
+    left: 600px;
+    top: 40%;
+}
